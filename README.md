@@ -1,0 +1,2 @@
+# SentinelOps - Self-Healing Incident Response Platform
+An AI-powered platform that monitors microservices, detects failures within seconds, and identifies the root cause by matching the incident to similar past incidents using vector search. It explains its diagnosis in plain English and automatically recovers the system through safe actions like rollback or restart.
